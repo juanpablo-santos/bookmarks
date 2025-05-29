@@ -1,5 +1,5 @@
 // --- Configuration ---
-const PAGE_SIZE = 10;
+const PAGE_SIZE = 8;
 
 // --- State ---
 let allBookmarks = [];
