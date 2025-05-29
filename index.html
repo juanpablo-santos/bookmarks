@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bookmarks</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 0; }
+    .container { max-width: 900px; margin: 30px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #0001; padding: 24px; }
+    h1 { font-size: 1.3em; margin-bottom: 16px; }
+    .tags-section { margin-bottom: 24px; }
+    .tags-filter { margin-bottom: 10px; font-size: 1em;}
+    .tags-list { display: flex; flex-wrap: wrap; gap: 8px; background-color: #f0f0f0; padding: 8px; }
+    .tag { background: #eee; border: 1px solid #ddd; border-radius: 16px; padding: 6px 14px; cursor: pointer; font-size: 0.95em; transition: background 0.2s; }
+    .tag.selected { background: #d32f2f; color: #fff; }
+    .tag:hover { background: #bdbdbd; }
+    .clear-tags { color: #d32f2f; text-decoration: underline; font-size: 0.9em; margin-bottom: 10px; margin-left: 10px; display: inline-flex; align-items: center; }
+    .clear-tags:hover { color: #aa2222; }
+    .toggle-tags { background: #eee; border: none; border-radius: 4px; padding: 6px 12px; cursor: pointer; font-size: 0.9em; margin-bottom: 10px; margin-right: 10px; display: flex; align-items: center; justify-content: center; }
+    .toggle-tags:hover { background: #d32f2f; }
+    .toggle-tags:hover svg { fill: #fff; }
+    .toggle-tags svg { width: 20px; height: 20px; fill: #d32f2f; }
+    .tags-list.hidden { display: none; }
+    .bookmarks-section { margin-top: 16px; }
+    .bookmark { background: #fafafa; border-radius: 6px; margin-bottom: 10px; padding: 12px 14px; box-shadow: 0 1px 2px #0001; }
+    .bookmark-title { font-weight: bold; font-size: 1.05em; margin-bottom: 4px; }
+    .bookmark-tags { font-size: 0.92em; color: #888; margin-top: 2px; }
+    .pagination { display: flex; justify-content: flex-end; gap: 8px; margin-top: 18px; }
+    .pagination button { background: #eee; border: none; border-radius: 4px; padding: 6px 12px; cursor: pointer; font-size: 1em; }
+    .pagination button.active, .pagination button:hover { background: #d32f2f; color: #fff; }
+    .pagination button:disabled { background: #eee; color: #bbb; cursor: not-allowed; }
+    @media (max-width: 800px) { .container { padding: 10px; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Bookmarks</h1>
+    <div class="tags-section">
+      <div style="display: flex; align-items: center;">
+        <button class="toggle-tags" onclick="toggleTagsVisibility()">
+          <svg viewBox="0 0 24 24">
+            <path d="M7 10l5 5 5-5z"/>
+          </svg>
+        </button>
+        <input class="tags-filter" type="text" placeholder="Buscar tags..." oninput="filterTags(this.value)">
+        <a href="#" class="clear-tags" onclick="clearAllTags(); return false;">Clear all</a>
+      </div>
+      <div class="tags-list" id="tagsList"></div>
+    </div>
+    <div class="bookmarks-section" id="bookmarksSection"></div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html> 

@@ -1,0 +1,23 @@
+# ---> Sanitas
+*.iml
+.DS_Store
+.apt_generated/
+.ci-friendly-pom.xml
+.classpath
+.factorypath
+.grunt
+.idea
+.project
+.settings/
+.springBeans
+.svn
+.svnignore
+.vscode
+bin/
+build/*
+it-data.txt
+lombok.config
+node/
+node_modules/
+sonar-project.properties
+target/
