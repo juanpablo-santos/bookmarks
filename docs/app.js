@@ -12,6 +12,7 @@ let currentPage = 1;
 const tagsListEl = document.getElementById('tagsList');
 const bookmarksSectionEl = document.getElementById('bookmarksSection');
 const paginationEl = document.getElementById('pagination');
+const paginationTopEl = document.getElementById('paginationTop');
 
 // --- Fetch bookmarks.json ---
 fetch('bookmarks.json')
@@ -98,32 +99,39 @@ function renderBookmarks() {
 function renderPagination() {
   const bookmarks = getFilteredBookmarks();
   const totalPages = Math.ceil(bookmarks.length / PAGE_SIZE);
-  paginationEl.innerHTML = '';
-  if (totalPages <= 1) return;
 
-  // Previous button
-  const prevBtn = document.createElement('button');
-  prevBtn.textContent = '←';
-  prevBtn.disabled = (currentPage === 1);
-  prevBtn.onclick = () => {
-    if (currentPage > 1) {
-      currentPage--;
-      renderBookmarks();
-      renderPagination();
-    }
-  };
-  paginationEl.appendChild(prevBtn);
+  // Helper to render pagination controls into a given element
+  function renderControls(paginationElement) {
+    paginationElement.innerHTML = '';
+    if (totalPages <= 1) return;
 
-  // Next button
-  const nextBtn = document.createElement('button');
-  nextBtn.textContent = '→';
-  nextBtn.disabled = (currentPage === totalPages);
-  nextBtn.onclick = () => {
-    if (currentPage < totalPages) {
-      currentPage++;
-      renderBookmarks();
-      renderPagination();
-    }
-  };
-  paginationEl.appendChild(nextBtn);
+    // Previous button
+    const prevBtn = document.createElement('button');
+    prevBtn.textContent = '←';
+    prevBtn.disabled = (currentPage === 1);
+    prevBtn.onclick = () => {
+      if (currentPage > 1) {
+        currentPage--;
+        renderBookmarks();
+        renderPagination();
+      }
+    };
+    paginationElement.appendChild(prevBtn);
+
+    // Next button
+    const nextBtn = document.createElement('button');
+    nextBtn.textContent = '→';
+    nextBtn.disabled = (currentPage === totalPages);
+    nextBtn.onclick = () => {
+      if (currentPage < totalPages) {
+        currentPage++;
+        renderBookmarks();
+        renderPagination();
+      }
+    };
+    paginationElement.appendChild(nextBtn);
+  }
+
+  renderControls(paginationTopEl);
+  renderControls(paginationEl);
 } 
