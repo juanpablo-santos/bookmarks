@@ -14064,6 +14064,13 @@
       "tags": [
         "grpc"
       ]
+    },
+    {
+      "url": "https://www.javacodegeeks.com/2019/05/using-jaxb.html",
+      "title": "When using JAXB",
+      "tags": [
+        "JAXB"
+      ]
     }
   ]
 }
