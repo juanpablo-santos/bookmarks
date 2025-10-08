@@ -1865,7 +1865,7 @@
       "tags": [
         "Escalabilidad",
         "Bases de datos",
-        "PostgresSQL",
+        "PostgreSQL",
         "Posts",
         "Posts 2021",
         "Artículos"
@@ -14182,6 +14182,48 @@
       "title": "Las 35 mejores películas de acción de la historia",
       "tags": [
         "Cine"
+      ]
+    },
+    {
+      "url": "https://www.espinof.com/actores-y-actrices/lei-guion-era-porqueria-sylvester-stallone-declaro-que-arnold-schwarzenegger-engano-para-peores-peliculas-su-carrera",
+      "title": "\"Leí el guion y era una porquería\", Sylvester Stallone declaró que Arnold Schwarzenegger lo engañó para una de las peores películas de su carrera",
+      "tags": [
+        "Cine"
+      ]
+    },
+    {
+      "url": "https://www.espinof.com/actores-y-actrices/keanu-reeves-tenia-tantas-ganas-trabajar-este-actor-que-se-sueldo-90-no-vinculo-gozo-dinero",
+      "title": "Keanu Reeves tenía tantas ganas de trabajar con este actor que se bajó el sueldo un 90%: \"No vinculo el gozo con el dinero\"",
+      "tags": [
+        "Cine"
+      ]
+    },
+    {
+      "url": "https://www.elmundotoday.com/2025/10/el-inventor-del-ventilador-de-suelo-pide-perdon-a-todas-las-victimas-y-reconoce-que-el-de-techo-es-mejor/",
+      "title": "El inventor del ventilador de suelo pide perdón a todas las víctimas y reconoce que el de techo es mejor",
+      "tags": [
+        "Posts", "Posts 2025"
+      ]
+    },
+    {
+      "url": "https://postgresforeverything.com/",
+      "title": "Postgres for everything",
+      "tags": [
+        "PostgreSQL", "Bases de datos"
+      ]
+    },
+    {
+      "url": "https://blog.epsiolabs.com/i-love-uuid-i-hate-uuid",
+      "title": "I love UUID, I hate UUID",
+      "tags": [
+        "Bases de datos"
+      ]
+    },
+    {
+      "url": "https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/",
+      "title": "Redis is fast - I'll cache in Postgres",
+      "tags": [
+        "Redis", "PostgreSQL"
       ]
     }
   ]
