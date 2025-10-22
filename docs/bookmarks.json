@@ -14239,6 +14239,27 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://medium.com/javarevisited/jacksons-jsonignore-cost-us-80k-in-aws-bills-4a3bec35e067",
+      "title": "@JsonIgnore Cost Us $80K — The Hidden Java Annotation That Broke Everything",
+      "tags": [
+        "Jackson", "Spring Boot", "Hibernate"
+      ]
+    },
+    {
+      "url": "https://levelup.gitconnected.com/the-hidden-cost-of-jackson-serialization-425612a4ac06",
+      "title": "The Hidden Cost of Jackson Serialization",
+      "tags": [
+        "Jackson", "Spring Boot"
+      ]
+    },
+    {
+      "url": "https://devrimozcay1.substack.com/p/we-made-everything-async-and-destroyed",
+      "title": "We Made Everything Async and Destroyed Our API Performance",
+      "tags": [
+        "Spring WebFlux", "Spring MVC", "Asíncronía"
+      ]
     }
   ]
 }
