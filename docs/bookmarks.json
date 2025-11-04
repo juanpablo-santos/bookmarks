@@ -14281,6 +14281,20 @@
       "tags": [
         "Posts", "Posts 2025", "Java", "Artículos"
       ]
+    },
+    {
+      "url": "https://dev.to/lymah/best-practices-for-prompt-engineering-with-goose-3m6h",
+      "title": "Best Practices for Prompt Engineering with goose",
+      "tags": [
+        "IA"
+      ]
+    },
+    {
+      "url": "https://rieckpil.de/achieve-faster-build-times-with-the-spring-test-profiler/",
+      "title": "Achieve Faster Build Times with the Spring Test Profiler",
+      "tags": [
+        "Spring", "Tests", "Profiling"
+      ]
     }
   ]
 }
