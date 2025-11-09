@@ -14302,6 +14302,13 @@
       "tags": [
         "WTF", "Posts", "Posts 2025"
       ]
+    },
+    {
+      "url": "https://medium.com/codex/implementing-the-strategy-design-pattern-in-spring-boot-df3adb9ceb4a",
+      "title": "Implementing the Strategy Design pattern in Spring Boot",
+      "tags": [
+        "Patrones", "Spring"
+      ]
     }
   ]
 }
