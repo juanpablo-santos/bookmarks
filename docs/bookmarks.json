@@ -14309,6 +14309,13 @@
       "tags": [
         "Patrones", "Spring"
       ]
+    },
+    {
+      "url": "https://datamethods.substack.com/p/sql-anti-patterns-you-should-avoid",
+      "title": "SQL Anti-Patterns You Should Avoid",
+      "tags": [
+        "Antipatrones", "SQL"
+      ]
     }
   ]
 }
