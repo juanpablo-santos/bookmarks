@@ -14393,6 +14393,13 @@
       "tags": [
         "Gestión de equipos"
       ]
+    },
+    {
+      "url": "https://vicky-ivanova.medium.com/beyond-the-happy-path-synthetic-test-data-in-java-with-datafaker-and-instancio-76096ea05bfe",
+      "title": "Beyond the Happy Path: Synthetic Test Data in Java with Datafaker and Instancio",
+      "tags": [
+        "JUnit", "Tests"
+      ]
     }
   ]
 }
