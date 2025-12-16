@@ -14400,6 +14400,13 @@
       "tags": [
         "JUnit", "Tests"
       ]
+    },
+    {
+      "url": "https://martinfowler.com/articles/is-quality-worth-cost.html",
+      "title": "Is High Quality Software Worth the Cost?",
+      "tags": [
+        "Ingeniería del Software"
+      ]
     }
   ]
 }
