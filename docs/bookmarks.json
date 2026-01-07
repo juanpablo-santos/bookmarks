@@ -14449,6 +14449,13 @@
       "tags": [
         "Hibernate", "Antipatrones"
       ]
+    },
+    {
+      "url": "https://todd.ginsberg.com/post/java/beware-of-week-year/",
+      "title": "Week Year: Java Date Formatting With YYYY Instead of yyyy",
+      "tags": [
+        "Java", "Date API"
+      ]
     }
   ]
 }
