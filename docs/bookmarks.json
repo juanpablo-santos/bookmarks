@@ -14442,6 +14442,13 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://martinelli.ch/the-hidden-performance-killer-understanding-open-session-in-view-in-spring-boot/",
+      "title": "The Hidden Performance Killer: Understanding Open Session in View in Spring Boot",
+      "tags": [
+        "Hibernate", "Antipatrones"
+      ]
     }
   ]
 }
