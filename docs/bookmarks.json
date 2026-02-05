@@ -14519,6 +14519,13 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://4comprehension.com/java-last-gatherer/",
+      "title": "Implementing Efficient Last Stream Elements Gatherer in Java",
+      "tags": [
+        "Ingeniería del Software", "Streams", "Collections", "Rendimiento"
+      ]
     }
   ]
 }
