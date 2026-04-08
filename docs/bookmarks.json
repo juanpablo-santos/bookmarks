@@ -14665,6 +14665,13 @@
       "tags": [
         "Inglés"
       ]
+    },
+    {
+      "url": "https://medium.com/all-things-software/testing-a-400-module-spring-boot-application-patterns-that-actually-scale-6288c5e9e6ed",
+      "title": "Testing a 400+ Module Spring Boot Application: Patterns That Actually Scale",
+      "tags": [
+        "Spring Boot", "Tests"
+      ]
     }
   ]
 }
