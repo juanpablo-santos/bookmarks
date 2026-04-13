@@ -14672,6 +14672,13 @@
       "tags": [
         "Spring Boot", "Tests"
       ]
+    },
+    {
+      "url": "https://blog.frankel.ch/rediscovering-java-serviceloader/",
+      "title": "Rediscovering Java ServiceLoader: Beyond Plugins and Into Capabilities",
+      "tags": [
+        "Spring", "Java", "SPI", "Patrones"
+      ]
     }
   ]
 }
