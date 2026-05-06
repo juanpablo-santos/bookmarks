@@ -14742,6 +14742,13 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://foojay.io/today/java-for-scripting/",
+      "title": "JavaScript (No, Not That One): Modern Automation with Java",
+      "tags": [
+        "Java", "Scripting", "JDK21", "JDK25", "JBang"
+      ]
     }
   ]
 }
