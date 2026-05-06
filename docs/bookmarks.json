@@ -14714,6 +14714,27 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://medium.com/@tobrien/53-years-later-the-humble-programmer-still-explains-our-existential-panic-2bd1b01dfe7a",
+      "title": "53 Years Later, The Humble Programmer Captures Our Existential Panic",
+      "tags": [
+        "Ingeniería del Software", "Posts", "Posts 2026"
+      ]
+    },
+    {
+      "url": "https://medium.com/@lakshitagangola123/hikaricp-vs-database-locks-why-your-fast-queries-still-timeout-in-spring-boot-a26b668d3cea",
+      "title": "🚨 HikariCP vs Database Locks: Why Your “Fast” Queries Still Timeout in Spring Boot",
+      "tags": [
+        "Spring Boot", "HikariCP"
+      ]
+    },
+    {
+      "url": "https://jaruiz.io/blog/tech-radar-vol34-en-la-era-ia",
+      "title": "Entrevistando al radar de Thoughtworks en la era de la IA",
+      "tags": [
+        "Ingeniería del Software", "Posts", "Posts 2026"
+      ]
     }
   ]
 }
