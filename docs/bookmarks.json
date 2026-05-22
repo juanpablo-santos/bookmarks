@@ -7514,7 +7514,7 @@
       "title": "La Agencia Catalana del Agua informa de que el charco de sudor en las nalgas de tu padre está al 43",
       "tags": [
         "Posts",
-        "Posts2024"
+        "Posts 2024"
       ]
     },
     {
@@ -14762,6 +14762,20 @@
       "title": "ESCENAS LEGENDARIAS - La PRESENTACIÓN de HANS LANDA (Malditos Bastardos)",
       "tags": [
         "Cine"
+      ]
+    },
+    {
+      "url": "https://devrimozcay1.substack.com/p/the-12-java-mistakes-that-cost-my",
+      "title": "The 12 Java Mistakes That Cost My Teams the Most Money",
+      "tags": [
+        "Java", "Antipatrones"
+      ]
+    },
+    {
+      "url": "https://devrimozcay1.substack.com/p/why-we-removed-resilience4j-from",
+      "title": "Why We Removed Resilience4j From Half Our Services (And Reliability Improved)",
+      "tags": [
+        "Resilience4J", "Antipatrones"
       ]
     }
   ]
