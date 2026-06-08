@@ -14805,6 +14805,13 @@
       "tags": [
         "SRE"
       ]
+    },
+    {
+      "url": "https://noss.github.io/2009/04/28/reverse-engineering-oracle-protocol.html",
+      "title": "Reverse engineering oracle protocol",
+      "tags": [
+        "Bases de Datos", "Oracle"
+      ]
     }
   ]
 }
