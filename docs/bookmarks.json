@@ -14812,6 +14812,27 @@
       "tags": [
         "Bases de Datos", "Oracle"
       ]
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DLnN2Ytdqi4",
+      "title": "Veamos \"VOLVER AL FUTURO\" pero sin EFECTOS ESPECIALES",
+      "tags": [
+        "Cine"
+      ]
+    },
+    {
+      "url": "https://basecamp.com/books#gettingreal",
+      "title": "Getting Real",
+      "tags": [
+        "Libros"
+      ]
+    },
+    {
+      "url": "https://blog.frankel.ch/bigdecimal-vs-double/",
+      "title": "double, BigDecimal, or Fixed-Point?",
+      "tags": [
+        "Java"
+      ]
     }
   ]
 }
