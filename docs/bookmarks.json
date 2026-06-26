@@ -14833,6 +14833,13 @@
       "tags": [
         "Java"
       ]
+    },
+    {
+      "url": "https://devrimozcay1.substack.com/p/i-catalogued-forty-seven-production",
+      "title": "I Catalogued Forty-Seven Production Incidents Over Six Months. Six Patterns Explained Forty-One of Them",
+      "tags": [
+        "SRE", "Patrones"
+      ]
     }
   ]
 }
