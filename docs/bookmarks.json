@@ -14854,6 +14854,55 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://aredko.blogspot.com/2026/06/unexpected-usefulness-of.html",
+      "title": "Unexpected usefulness of the MessageDigest::isEqual method",
+      "tags": [
+        "Java"
+      ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/hidden-design-decisions-refactoring",
+      "title": "Hidden Design Decisions: Refactoring Control Coupling",
+      "tags": [
+        "Ingeniería del Software", "Patrones"
+      ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/why-human-level-ai-wont-be-enough",
+      "title": "Why Human-Level AI Won't Be Enough",
+      "tags": [
+        "Ingeniería del Software", "IA"
+      ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/coding-is-dead-but-it-still-smells",
+      "title": "Coding Is Dead (...But It Still Smells Funny)",
+      "tags": [
+        "Ingeniería del Software", "IA"
+      ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/kill-the-conditional-maze-from-if",
+      "title": "Kill the Conditional Maze: From If-Statements to Rule Pipelines",
+      "tags": [
+        "Ingeniería del Software", "Patrones"
+      ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/refactoring-express-selections-as",
+      "title": "Refactoring: Express Selections as Tables",
+      "tags": [
+        "Ingeniería del Software", "Patrones"
+      ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/how-long-should-a-function-be-and",
+      "title": "How Long Should a Function Be? (And Why It’s the Wrong Question to Ask)",
+      "tags": [
+        "Ingeniería del Software", "Patrones"
+      ]
     }
   ]
 }
