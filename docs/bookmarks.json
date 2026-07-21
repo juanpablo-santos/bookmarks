@@ -14931,6 +14931,13 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://blog.frankel.ch/serviceloader-provider-factory/",
+      "title": "Making ServiceLoader usable: a provider factory",
+      "tags": [
+        "Java", "Patrones"
+      ]
     }
   ]
 }
