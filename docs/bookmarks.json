@@ -14933,10 +14933,31 @@
       ]
     },
     {
+      "url": "https://www.youtube.com/watch?v=bHzmODHTURM",
+      "title": "The Beauty Of Stanley Kubrick",
+      "tags": [
+        "Cine"
+      ]
+    },
+    {
+      "url": "https://rodajesdepeliculas.blogspot.com/2026/04/el-rodaje-de-la-vida-de-brian-detras-de.html",
+      "title": "El rodaje de La vida de Brian detrás de las cámaras",
+      "tags": [
+        "Cine"
+      ]
+    },
+    {
       "url": "https://blog.frankel.ch/serviceloader-provider-factory/",
       "title": "Making ServiceLoader usable: a provider factory",
       "tags": [
         "Java", "Patrones"
+      ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/compressed-cognition-the-hidden-cost",
+      "title": "Compressed Cognition: The Cost of Faster Coding",
+      "tags": [
+        "Ingeniería del Software", "IA"
       ]
     }
   ]
