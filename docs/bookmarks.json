@@ -15029,6 +15029,13 @@
       "tags": [
         "CV", "Trabajo"
       ]
+    },
+    {
+      "url": "https://solodev.sk/blog/vertical-slices-in-spring-boot/",
+      "title": "Vertical slices in Spring Boot, and how to test them",
+      "tags": [
+        "Spring", "Tests"
+      ]
     }
   ]
 }
