@@ -15078,6 +15078,13 @@
       "tags": [
         "Cine"
       ]
+    },
+    {
+      "url": "https://xdp.es",
+      "title": "High-performance recursive DNS with DNSSEC validation.",
+      "tags": [
+        "Privacidad", "DNS"
+      ]
     }
   ]
 }
