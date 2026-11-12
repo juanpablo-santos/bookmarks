@@ -15242,6 +15242,13 @@
       "tags": [
         "Ingeniería del Software", "IA"
       ]
+    },
+    {
+      "url": "https://devrimozcay1.substack.com/p/the-payment-succeeded-our-system",
+      "title": "The Payment Succeeded. Our System Said It Failed. Then the Retry Made Everything Worse",
+      "tags": [
+        "Ingeniería del Software", "Patrones"
+      ]
     }
   ]
 }
