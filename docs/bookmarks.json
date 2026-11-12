@@ -15221,6 +15221,13 @@
       "tags": [
         "Posts", "Posts 2026", "IA"
       ]
+    },
+    {
+      "url": "https://adamtornhill.substack.com/p/evolutionary-refactoring-let-agents",
+      "title": "Evolutionary Refactoring: Let Agents Invent Codebase-Specific Patterns",
+      "tags": [
+        "Ingeniería del Software", "IA"
+      ]
     }
   ]
 }
